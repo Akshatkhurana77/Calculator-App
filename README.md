@@ -17,10 +17,6 @@
     <li>Real-time display of input, operations, and results.</li>
     <li>Interactive UI with visually appealing orange button shades.</li>
 </ul>
-
-<h2>Screenshots</h2>
-<p><em>Add screenshots of your app here (optional)</em></p>
-
 <h2>Technologies Used</h2>
 <ul>
     <li><strong>Language:</strong> Java</li>
