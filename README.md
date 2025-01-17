@@ -1,45 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculator App</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1, h2, h3 {
-            color: #ff9800;
-        }
-        pre {
-            background-color: #eee;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        .code {
-            font-family: 'Courier New', Courier, monospace;
-            color: #d14;
-        }
-        a {
-            color: #ff9800;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        ul {
-            margin: 10px 0;
-            padding-left: 20px;
-        }
-    </style>
 </head>
 <body>
 
-<h1>Calculator App</h1>
+<h1 align:"center">Calculator App</h1>
 
 <h2>Description</h2>
 <p>The Calculator App is a simple Android application designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It provides a user-friendly interface with a responsive layout, supporting continuous calculations and real-time results display.</p>
